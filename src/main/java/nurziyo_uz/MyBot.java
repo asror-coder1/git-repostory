@@ -39,6 +39,9 @@ public class MyBot extends TelegramLongPollingBot {
                     throw new RuntimeException(e);
                 }
             }
+            
+            
+            
         }
     }
 
